@@ -38,7 +38,7 @@ User-supplied screenshots from the running browser are included in `docs/screens
 - `styles.css` — responsive styling
 - `app.js` — input validation, subset construction, rendering, and string testing
 - `tests/automata.test.cjs` — dependency-free automated regression tests (Node.js)
-- `docs/Project-Report.md` — M1/M2 documentation, user guide, worked example, test results, and presentation/viva material
+  
 
 The JavaScript source is organized into named parsing, conversion, NFA/DFA diagram rendering, table/log rendering, and string-testing functions with comments on the algorithm and validation steps.
 
